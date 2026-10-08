@@ -1,0 +1,12 @@
+{
+  "name": "cicd-sample-project",
+  "version": "1.0.0",
+  "description": "Simple HTML, CSS, and JS project with GitHub Actions CI",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
